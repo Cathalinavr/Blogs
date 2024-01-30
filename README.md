@@ -1,2 +1,2 @@
-# Blogs
-In this section you'll see some Blogs that i have done.
+# Portfolio
+In this section you'll see my portfolio
